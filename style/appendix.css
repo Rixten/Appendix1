@@ -1,7 +1,22 @@
-header {
-  font-family: 'Poiret One', cursive;
-  font-size: 12pt;
-}
+
 h1 {
-  font-family: 'Poiret One', cursive;
+  font-family: 'Unica One', cursive;
+  text-align: center;
+  font-size: 11pt;
+}
+
+h2 {
+  font-family: 'Unica One', cursive;
+  font-size: 50pt;
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: #f9eec0;
+  padding: 1em;
+}
+
+.col-sm {
+  height: 100pt;
+  padding-top: 40pt;
 }
