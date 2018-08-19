@@ -21,7 +21,7 @@ h2 {
 }
 
 .col-sm {
-  height: 100pt;
+  height: 150pt;
   padding-top: 40pt;
 }
 
@@ -31,4 +31,11 @@ a:link {
 
 a:visited {
   color: #000F08;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
