@@ -1,3 +1,6 @@
+body {
+  background-color: #fff5e6;
+}
 
 h1 {
   font-family: 'Unica One', cursive;
@@ -9,15 +12,23 @@ h2 {
   font-family: 'Unica One', cursive;
   font-size: 50pt;
   text-align: center;
-  color: #FFFF;
+  color: #fff7e6;
 }
 
 .jumbotron {
-  background-color: #22223B;
+  background-color: #ff9900;
   padding: 1em;
 }
 
 .col-sm {
   height: 100pt;
   padding-top: 40pt;
+}
+
+a:link {
+  color: #000F08;
+}
+
+a:visited {
+  color: #000F08;
 }
